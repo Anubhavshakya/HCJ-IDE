@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "anubhavshakya.com/precache-manifest.7dae8493bf077ef504923266fdaab3c4.js"
+  "/HCJ-IDE/precache-manifest.525f9ab9c896546869bb4b3e685e9479.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("anubhavshakya.com/index.html", {
+workbox.routing.registerNavigationRoute("/HCJ-IDE/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,11 +1,11 @@
 {
-  "main.js": "anubhavshakya.com/static/js/main.9e5ed8e3.chunk.js",
-  "main.js.map": "anubhavshakya.com/static/js/main.9e5ed8e3.chunk.js.map",
-  "runtime~main.js": "anubhavshakya.com/static/js/runtime~main.ea48ebf8.js",
-  "runtime~main.js.map": "anubhavshakya.com/static/js/runtime~main.ea48ebf8.js.map",
-  "static/js/2.c88c70e5.chunk.js": "anubhavshakya.com/static/js/2.c88c70e5.chunk.js",
-  "static/js/2.c88c70e5.chunk.js.map": "anubhavshakya.com/static/js/2.c88c70e5.chunk.js.map",
-  "index.html": "anubhavshakya.com/index.html",
-  "precache-manifest.7dae8493bf077ef504923266fdaab3c4.js": "anubhavshakya.com/precache-manifest.7dae8493bf077ef504923266fdaab3c4.js",
-  "service-worker.js": "anubhavshakya.com/service-worker.js"
+  "main.js": "/HCJ-IDE/static/js/main.3654a2fc.chunk.js",
+  "main.js.map": "/HCJ-IDE/static/js/main.3654a2fc.chunk.js.map",
+  "runtime~main.js": "/HCJ-IDE/static/js/runtime~main.7c6531cd.js",
+  "runtime~main.js.map": "/HCJ-IDE/static/js/runtime~main.7c6531cd.js.map",
+  "static/js/2.92d42306.chunk.js": "/HCJ-IDE/static/js/2.92d42306.chunk.js",
+  "static/js/2.92d42306.chunk.js.map": "/HCJ-IDE/static/js/2.92d42306.chunk.js.map",
+  "index.html": "/HCJ-IDE/index.html",
+  "precache-manifest.525f9ab9c896546869bb4b3e685e9479.js": "/HCJ-IDE/precache-manifest.525f9ab9c896546869bb4b3e685e9479.js",
+  "service-worker.js": "/HCJ-IDE/service-worker.js"
 }
